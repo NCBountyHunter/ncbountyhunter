@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ncbountyheader
+- 👋 Hi, I’m @ncbountyhunter
 - 👀 I’m interested in ...game development
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...multiple game development projects
